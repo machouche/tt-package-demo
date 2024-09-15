@@ -10,4 +10,4 @@
 
 ### Patch Changes
 
-- minor change in configuration
+- minor change in configurationª
